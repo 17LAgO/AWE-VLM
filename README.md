@@ -2375,8 +2375,8 @@ Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua
  <p align="center">
 </p>
 <details> 
- <summary>ℹ️ <i>Awesome Remote Sensing Vision-Language Models & Papers</i></summary>
-# Awesome Remote Sensing Vision-Language Models & Papers（23/12月，待更新）
+ <summary>ℹ️ <i>Awesome Remote Sensing Vision-Language Models & Papers（23/12月，待更新）</i></summary>
+# Awesome Remote Sensing Vision-Language Models & Papers
 Collection of Remote Sensing Vision-Language models and papers
 
 To add your work to this repo, feel free to submit the request or contact me at zilun.zhang@zju.edu.cn
@@ -2458,7 +2458,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
 
 - **Fine tuning CLIP with Remote Sensing (Satellite) images and captions** (2021.10) [[pdf]](https://huggingface.co/blog/fine-tune-clip-rsicd)
   - Arto, Dev Vidhani, Goutham, Mayank Bhaskar, Sujit Pal
- <details> 
+
 
  <p align="center">
 </p>
