@@ -2370,11 +2370,10 @@ Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HqWu-HITCS/Awesome-Chinese-LLM&type=Date" />
   </picture>
 </a>
-<details> 
-<details> 
 
 
-## Important References
+
+# Important References
 
 - [Guide to Vision-Language Models (VLMs) by Görkem Polat](https://encord.com/blog/vision-language-models-guide/)
 - [VLM Primer by Aman Chadha](https://aman.ai/primers/ai/VLM/#google_vignette)
