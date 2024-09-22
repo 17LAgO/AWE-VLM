@@ -2459,8 +2459,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
 - **Fine tuning CLIP with Remote Sensing (Satellite) images and captions** (2021.10) [[pdf]](https://huggingface.co/blog/fine-tune-clip-rsicd)
   - Arto, Dev Vidhani, Goutham, Mayank Bhaskar, Sujit Pal
 
-
- <p align="center">
+<p align="center">
 </p>
 # Important References
 
