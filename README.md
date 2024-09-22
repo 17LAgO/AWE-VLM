@@ -2462,7 +2462,6 @@ To add your work to this repo, feel free to submit the request or contact me at 
 
  <p align="center">
  </p>
- <details> 
 <summary>ℹ️ <i>Important References </i></summary>
 
 # Important References
