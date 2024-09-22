@@ -2,7 +2,6 @@
 For study VLM with new motion
 
  <p align="center">
-<img src="https://github.com/gokayfem/Awesome-VLM-Architectures/assets/88277926/c7112b75-3b86-48a2-9c0f-f1dc1dc6ee06" />
 </p>
 <details> 
 <summary>ℹ️ <i>More Information</i></summary>   
