@@ -1,5 +1,6 @@
 # AWE-VLM
 For study VLM with new motion
+<summary>ℹ️ <i>More Information</i></summary>  
 # 👁️‍🗨️Awesome VLM Architectures [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![VLM](https://github.com/gokayfem/Awesome-VLM-Architectures/assets/88277926/5c9ee091-1f37-4d92-8398-a7d4e006c014)
 
