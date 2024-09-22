@@ -4,7 +4,7 @@ For study VLM with new motion
  <p align="center">
 </p>
 <details> 
-<summary>ℹ️ <i>More Information</i></summary>   
+<summary>ℹ️ <i>通用VLM Architectures </i></summary>   
 # 👁️‍🗨️Awesome VLM Architectures [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![VLM](https://github.com/gokayfem/Awesome-VLM-Architectures/assets/88277926/5c9ee091-1f37-4d92-8398-a7d4e006c014)
 
