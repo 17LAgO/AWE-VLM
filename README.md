@@ -2370,7 +2370,11 @@ Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HqWu-HITCS/Awesome-Chinese-LLM&type=Date" />
   </picture>
 </a>
+</details> 
 
+ <p align="center">
+</p>
+<details> 
 
 
 # Important References
