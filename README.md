@@ -173,7 +173,7 @@ Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Ton
 **DeepSeek-VL**: Employs a hybrid vision encoder architecture, fusing a **SigLIP-L encoder** for semantic understanding with a **SAM-B encoder** for high-resolution detail extraction. This allows for efficient processing of 1024x1024 images while capturing both global and fine-grained visual features. **A two-layer hybrid MLP adapter** then integrates these features with the DeepSeek LLM backbone. The model is pre-trained on a diverse dataset encompassing web screenshots, PDFs, OCR, charts, and knowledge-based content from sources like Common Crawl, Web Code, E-books, and arXiv articles. This pretraining is further refined using a curated instruction-tuning dataset based on real user scenarios and categorized into a comprehensive taxonomy covering recognition, conversion, analysis, reasoning, evaluation, and safety tasks. By combining this diverse data with its unique architecture and fusion strategies, DeepSeek-VL aims to deliver robust performance across a wide range of real-world vision-language applications.  
 </details> 
 
-### **MANTIS: Mastering Multi-Image Understanding Through Interleaved Instruction Tuning** 
+### **MANTIS: Mastering Multi-Image Understanding Through Interleaved Instruction Tuning（数据集的创新，主要是多图像选择问答）** 
 
 MANTIS is a family of open-source large multimodal models that demonstrate state-of-the-art performance on multi-image visual language tasks. By focusing on instruction tuning with a carefully curated multi-image dataset, MANTIS achieves superior results using significantly less data than models trained with massive web datasets. This efficient approach opens new avenues for developing powerful multi-image LMMs with limited resources.
 
